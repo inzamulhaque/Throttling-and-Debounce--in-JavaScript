@@ -1,0 +1,15 @@
+* {
+  font-family: "Lexend Deca Medium";
+}
+
+body {
+  height: 200vh;
+}
+
+section {
+  position: fixed;
+}
+
+p {
+  font-size: 3rem;
+}
